@@ -13,12 +13,12 @@ buttons, `+`/`−` instead of tiny keyboards, and an offline-first core so nothi
 🔗 **Google Play:** https://play.google.com/store/apps/details?id=dev.pauvh.forja
 
 <p align="center">
-  <img src="screenshots/screen-1.png" width="150">
-  <img src="screenshots/screen-2.png" width="150">
-  <img src="screenshots/screen-3.png" width="150">
-  <img src="screenshots/screen-4.png" width="150">
-  <img src="screenshots/screen-5.png" width="150">
-  <img src="screenshots/screen-6.png" width="150">
+  <img src="screenshots/screen-1.png" width="128">
+  <img src="screenshots/screen-2.png" width="128">
+  <img src="screenshots/screen-3.png" width="128">
+  <img src="screenshots/screen-4.png" width="128">
+  <img src="screenshots/screen-5.png" width="128">
+  <img src="screenshots/screen-6.png" width="128">
 </p>
 
 ## What it does
